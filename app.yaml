@@ -8,5 +8,5 @@ threadsafe: yes
   script: main.app
 
 libraries:
-- name: webapp2
-  version: "2.5.2"
+- name: telebot
+  version: "2.1.6"
