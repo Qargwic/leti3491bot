@@ -6,7 +6,6 @@ import constants
 import info
 
 bot = telebot.TeleBot(constants.token)
-# bot.send_message(message.from_user.id, "Дима невероятно умен и крут")
 
 
 def schedule(index):
